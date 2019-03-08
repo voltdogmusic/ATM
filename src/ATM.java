@@ -154,7 +154,6 @@ public class ATM extends JFrame {
 
 class Account {
 
-    //SET TO 100 LATER AFTER TESTING
     private static double checkingAmount = 100;
     private static double savingsAmount = 100;
     private int withdrawCount;  //# of withdrawals, used to calculate withdrawal penalty
